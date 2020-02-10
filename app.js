@@ -2,7 +2,7 @@
 
 let Mouse;
 
-let SIZE = 1024;
+let SIZE = 2048;
 
 
 window.addEventListener("load", () => {
